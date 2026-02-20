@@ -30,26 +30,20 @@ Dundee’s population distribution and age-structure evidence helped explain why
 ## Tools
 ArcGIS Online • ArcGIS Instant Apps • ArcGIS StoryMaps • Census 2022 datasets
 
-## Evidence (Screenshots)
 
-### 1) StoryMap cover / title
-![StoryMap title](0-title.png)
+## Evidence 
 
-### 2) Scotland-wide unemployment map (Census 2022, Data Zones)
+### 1) Scotland-wide unemployment map (Census 2022, Data Zones)
 ![Scotland unemployment map](02-scotland-unemployment.png)
 
-### 3) Dundee population map (context layer)
+### 2) Dundee population map (context layer)
 ![Dundee population map](03-dundee-population.png)
 
-### 4) Dundee age structure chart(s)
+### 3) Dundee age structure chart(s)
 ![Dundee age structure](04-age-structure.png)
 
-### 5) Dundee population change / supporting chart(s)
+### 4) Dundee population change / supporting chart(s)
 ![Population change](05-population-change.png)
-
-### 6) Sources / footer section
-![Sources](06-sources.png)
-
 
 
 ## Data Sources
