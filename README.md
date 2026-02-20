@@ -33,22 +33,23 @@ ArcGIS Online • ArcGIS Instant Apps • ArcGIS StoryMaps • Census 2022 datas
 ## Evidence (Screenshots)
 
 ### 1) StoryMap cover / title
-![StoryMap title](screenshots/01-title.png)
+![StoryMap title](0-title.png)
 
 ### 2) Scotland-wide unemployment map (Census 2022, Data Zones)
-![Scotland unemployment map](screenshots/02-scotland-unemployment.png)
+![Scotland unemployment map](02-scotland-unemployment.png)
 
 ### 3) Dundee population map (context layer)
-![Dundee population map](screenshots/03-dundee-population.png)
+![Dundee population map](03-dundee-population.png)
 
 ### 4) Dundee age structure chart(s)
-![Dundee age structure](screenshots/04-age-structure.png)
+![Dundee age structure](04-age-structure.png)
 
 ### 5) Dundee population change / supporting chart(s)
-![Population change](screenshots/05-population-change.png)
+![Population change](05-population-change.png)
 
 ### 6) Sources / footer section
-![Sources](screenshots/06-sources.png)
+![Sources](06-sources.png)
+
 
 
 ## Data Sources
