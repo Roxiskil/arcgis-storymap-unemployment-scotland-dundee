@@ -10,14 +10,11 @@ Across two practical sessions, I learned how spatial data can be transformed fro
 Session 1 focused on building a web map in ArcGIS Online and publishing it as an interactive Instant App.
 Session 2 extended the work into a StoryMap, combining multiple maps and supporting visuals into a coherent narrative.
 
-## What I Built
-
-### Session 1 — Web Map + Instant App
+### Web Map + Instant App
 - Created an ArcGIS Online web map using **Census 2022** data to visualise unemployment across Scotland at **Data Zone** level.
 - Published the map as an **Instant App** (private) and configured presentation features such as titles, legends, and accessible layout.
 
-### Session 2 — StoryMap (Spatial Storytelling)
-- Worked collaboratively to combine:
+### StoryMap (Spatial Storytelling)
   - a Scotland-wide unemployment map (Data Zones)
   - a Dundee population map (Data Zones)
 - Embedded maps within a StoryMap alongside explanatory text and supporting visuals.
@@ -29,7 +26,6 @@ Dundee’s population distribution and age-structure evidence helped explain why
 
 ## Tools
 ArcGIS Online • ArcGIS Instant Apps • ArcGIS StoryMaps • Census 2022 datasets
-
 
 ## Evidence 
 
